@@ -1,0 +1,307 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700,300);
+#title h1 {
+  color: orange;
+  font-weight: 400;
+  font-family: "Oswald", sans-serif !important; }
+#title span {
+  color: #F2A56D;
+  font-weight: 400; }
+#title .flat-menu {
+  background-color: white !important; }
+#title .navbar-default {
+  font-family: "Oswald", sans-serif !important; }
+
+#menu {
+  margin-left: 40%; }
+  #menu li {
+    display: inline-block; }
+  #menu a {
+    color: #969191 !important;
+    font-weight: 400;
+    font-size: 1.5em !important; }
+  #menu a:hover {
+    background-color: #DC7E54;
+    color: white !important; }
+  #menu .active {
+    color: orange !important; }
+
+#serv .porf {
+  width: 3.5em !important;
+  height: 3.5em;
+  display: inline-block !important;
+  position: absolute;
+  margin-top: 10% !important; }
+#serv h2 {
+  display: inline-block;
+  margin-left: 20%;
+  margin-top: 11%;
+  font-family: "Oswald", sans-serif !important;
+  font-size: 1.5em;
+  color: #F47927; }
+#serv button {
+  background-color: #F47927 !important;
+  color: white;
+  font-family: "Oswald", sans-serif !important;
+  width: 5em !important;
+  height: 2em;
+  border: none;
+  margin-left: -10%; }
+
+.icon1 {
+  margin-top: 1.4%;
+  margin-left: -2%;
+  position: absolute;
+  width: 8em;
+  height: 7em; }
+
+.icon2 {
+  margin-top: 60.5%;
+  margin-left: -2%;
+  position: absolute;
+  width: 8em;
+  height: 7em; }
+
+.icon3 {
+  margin-top: 117.5%;
+  margin-left: -2%;
+  position: absolute;
+  width: 8em;
+  height: 7em; }
+
+.icon4 {
+  margin-top: 177.9%;
+  margin-left: -2%;
+  position: absolute;
+  width: 8em;
+  height: 7em; }
+
+.icon5 {
+  margin-top: 199%;
+  margin-left: -2%;
+  position: absolute;
+  width: 8em;
+  height: 7em; }
+
+.cuadroNaran {
+  width: 6em;
+  height: 3em;
+  background-color: #F5A367;
+  margin-top: -4%;
+  position: absolute; }
+
+.cuadFoot {
+  margin-top: 0%;
+  height: 25.2em !important; }
+
+.float-right {
+  position: absolute;
+  margin-left: 94%; }
+
+#slider img {
+  width: 100% !important; }
+
+#titImag .super {
+  background-image: url(../images/post_border_bg.png);
+  background-repeat: repeat-x;
+  margin-top: 5%;
+  height: 1.2em !important;
+  margin-bottom: 2%; }
+#titImag h2 {
+  font-family: "Oswald", sans-serif !important;
+  color: #F47927 !important;
+  display: inline-block;
+  position: absolute; }
+
+#imageTit .cua {
+  border: 1px solid #D2CCCC;
+  border-top: none;
+  margin-top: -10%;
+  margin-right: 13.5%;
+  padding: 5% !important;
+  margin-bottom: 25%; }
+#imageTit h3 {
+  font-family: "Oswald", sans-serif !important;
+  color: #AFA3A3;
+  padding-top: 2%;
+  font-size: 1.5em; }
+#imageTit h4 {
+  font-family: "Oswald", sans-serif !important;
+  color: #F47927;
+  font-size: 1em; }
+
+#footer .container {
+  background-color: #F47927;
+  color: white; }
+
+/*PAGINA DE ABOUT US+++++++++++++++++++*/
+#about h2 {
+  background-color: #F47927;
+  color: white;
+  font-family: "Oswald", sans-serif !important;
+  padding-bottom: 1%;
+  padding-left: 1%; }
+
+#autor img {
+  border: 1px solid #C4BDBD;
+  padding: 0.5%; }
+#autor p {
+  text-align: left;
+  line-height: 1.8em;
+  padding-left: 32% !important;
+  letter-spacing: 1%; }
+#autor span {
+  margin-top: 10% !important; }
+#autor .nar {
+  color: #F47927 !important;
+  font-size: 1em !important;
+  border-left: 10px solid orange !important;
+  margin-left: 10%;
+  margin-top: 5%;
+  padding-left: 3% !important; }
+#autor h4 {
+  font-family: "Oswald", sans-serif !important;
+  color: #F47927;
+  margin-top: 5%; }
+#autor .super {
+  background-image: url(../images/post_border_bg.png);
+  background-repeat: repeat-x;
+  margin-top: -8%;
+  margin-left: 40%;
+  height: 1.2em !important;
+  margin-bottom: 2%; }
+#autor p {
+  margin-left: -30%; }
+#autor a {
+  color: black;
+  text-decoration: none; }
+#autor .cuadro {
+  width: 5em;
+  height: 5em;
+  background-color: #F47927;
+  border: 1px solid orange;
+  display: inline-block; }
+#autor .cua {
+  margin-left: 10%; }
+#autor .colu {
+  margin-top: 5%; }
+#autor .colu span {
+  font-family: "Oswald", sans-serif !important;
+  color: #F47927 !important; }
+#autor .colu p {
+  color: #ACA8A8 !important; }
+#autor .imgJes {
+  border: none; }
+#autor .comi {
+  background-color: #E3DFDF !important;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  padding: 5%;
+  width: 100%; }
+#autor i {
+  color: #F47927; }
+#autor .best > p {
+  font-family: "Oswald", sans-serif !important;
+  color: #F47927; }
+#autor .link {
+  color: #CCC4C4 !important;
+  font-size: 1em !important;
+  font-family: sans-serif !important; }
+#autor .best span {
+  width: 100%; }
+#autor .superOne {
+  background-image: url(../images/post_border_bg.png);
+  background-repeat: repeat-x;
+  height: 1.2em !important;
+  position: relative; }
+#autor .One {
+  margin-top: 55%;
+  margin-bottom: 5%; }
+#autor .two {
+  margin-top: 55%;
+  margin-bottom: 5%; }
+#autor .three {
+  margin-top: 55%;
+  margin-bottom: 0%; }
+#autor .four {
+  margin-top: 40%;
+  margin-bottom: 5%; }
+#autor .five {
+  margin-top: 30%;
+  margin-bottom: 5%; }
+
+#list {
+  margin-bottom: 5%;
+  margin-top: 2%; }
+  #list p {
+    font-family: "Oswald", sans-serif !important;
+    font-size: 1.5em;
+    display: inline-block;
+    float: left; }
+  #list ul {
+    display: inline-block;
+    color: #827B7B !important; }
+  #list a:hover {
+    background-color: orange;
+    color: white !important; }
+  #list a {
+    color: #827B7B !important;
+    font-family: "Oswald", sans-serif !important;
+    margin-left: 5%;
+    font-size: 1.5em;
+    margin-top: -10%; }
+
+#peli img {
+  width: 100%;
+  border: 1px solid #D8D1D1;
+  padding: 0.3%; }
+#peli img:hover {
+  border: 3px solid orange; }
+#peli .titPeli {
+  border: 1px solid #D8D1D1;
+  padding-left: 2%;
+  margin-top: 1%;
+  padding-bottom: 5%;
+  margin-bottom: 10%; }
+#peli p {
+  font-family: "Oswald", sans-serif !important;
+  color: #B2ABAB;
+  font-size: 1.5em; }
+#peli span {
+  font-family: "Oswald", sans-serif !important;
+  color: #F47927; }
+
+#inpOra input {
+  color: #F47927;
+  border: 1px solid #F47927;
+  display: block;
+  width: 70%;
+  height: 3em;
+  margin: 3%;
+  font-family: "Oswald", sans-serif !important;
+  color: #F47927 !important;
+  padding-left: 2%; }
+#inpOra .inpmes {
+  width: 100%;
+  height: 12em !important;
+  padding-bottom: 28%;
+  padding-left: 2%; }
+#inpOra button {
+  background-color: #F47927;
+  margin-left: 3%;
+  font-family: "Oswald", sans-serif !important;
+  color: white;
+  font-size: 2em;
+  border-radius: 0px;
+  margin-bottom: 15%; }
+
+#colHija span {
+  color: #F47927;
+  margin-left: -8%; }
+#colHija p {
+  margin-left: -40%;
+  line-height: 150%; }
+
+iframe {
+  margin-bottom: 5%; }
+
+/*# sourceMappingURL=main.css.map */

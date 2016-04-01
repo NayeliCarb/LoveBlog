@@ -1,0 +1,17 @@
+@import "../variables/var";
+
+.cuadroNaran{
+	width: 6em;
+	height: 3em;
+	background-color: #F5A367;
+	margin-top: -4%;
+	position: $pos;
+}
+.cuadFoot{
+	margin-top: 0%;
+	height: 25.2em !important;
+}
+.float-right{
+	position: $pos;
+	margin-left: 94%;
+}

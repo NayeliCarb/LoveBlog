@@ -1,0 +1,78 @@
+@import "../variables/var";
+
+#title{
+
+	h1{
+		color: orange;
+		font-weight: 400;
+		font-family: $font;
+	}
+
+	span{
+		color: #F2A56D;
+		font-weight: 400;
+		
+	}
+	
+	.flat-menu{
+	background-color: white!important;
+	}
+
+	.navbar-default{
+		font-family: $font;
+	}
+}
+
+#menu{
+	margin-left: 40%;
+
+	li{
+		display: inline-block;
+	}
+
+	a{
+		color: #969191 !important;
+		font-weight: 400;	
+		font-size: 1.5em !important;
+	}
+
+	a:hover{
+		background-color: #DC7E54;
+		color: white!important;
+	}
+
+	.active{
+		color: orange !important;
+
+	}
+}
+
+#serv{
+
+	.porf{
+		width: 3.5em !important;
+		height: 3.5em;
+		display: inline-block !important;
+		position: absolute;
+		margin-top: 10% !important;
+	}
+
+	h2{
+		display: inline-block;
+		margin-left: 20%;
+		margin-top: 11%;
+		font-family: $font;
+		font-size: 1.5em;
+		color: $clrOran;
+	}
+
+	button{
+		background-color: $clrOran !important;
+		color: white;
+		font-family: $font;
+		width: 5em !important;
+		height: 2em;
+		border: none;
+		margin-left: -10%;
+	}
+}
